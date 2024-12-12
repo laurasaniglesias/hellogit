@@ -1,1 +1,1 @@
-document.write("Hello Git 3");
+document.write("Hello Git 3 V2");
