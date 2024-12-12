@@ -1,1 +1,1 @@
-document.write("Login");
+document.write("Login v2");
