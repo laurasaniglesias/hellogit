@@ -1,2 +1,2 @@
 
-document.write("New Hello Git");
+document.write("New Hello GitHub");
